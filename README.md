@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Queue
@@ -47,4 +48,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
