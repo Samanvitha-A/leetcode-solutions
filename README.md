@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -47,12 +48,14 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0146-lru-cache](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -61,6 +64,7 @@
 | [0056-merge-intervals](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -69,6 +73,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
