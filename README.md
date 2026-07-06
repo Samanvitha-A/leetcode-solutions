@@ -28,6 +28,7 @@
 | [0414-third-maximum-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0561-array-partition) |
 ## Queue
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0561-array-partition](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0561-array-partition) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -182,8 +184,13 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0561-array-partition) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
