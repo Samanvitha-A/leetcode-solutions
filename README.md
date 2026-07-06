@@ -24,6 +24,7 @@
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Queue
 |  |
@@ -39,6 +40,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0414-third-maximum-number) |
 ## Bucket Sort
 |  |
@@ -105,6 +108,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -146,6 +150,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
