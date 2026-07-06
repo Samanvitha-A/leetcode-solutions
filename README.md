@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0056-merge-intervals](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
