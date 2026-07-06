@@ -20,6 +20,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Queue
@@ -50,6 +51,7 @@
 | [0146-lru-cache](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
@@ -65,6 +67,7 @@
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
