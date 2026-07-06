@@ -13,6 +13,7 @@
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0053-maximum-subarray](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -71,6 +73,7 @@
 | [0011-container-with-most-water](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
