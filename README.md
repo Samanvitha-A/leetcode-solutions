@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
@@ -49,6 +50,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -65,6 +67,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
