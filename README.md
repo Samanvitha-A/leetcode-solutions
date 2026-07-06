@@ -32,6 +32,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +96,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0205-isomorphic-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
+| [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
 ## Trie
 |  |
 | ------- |
