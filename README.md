@@ -135,6 +135,7 @@
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1332-remove-palindromic-subsequences](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Binary Search
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
+| [1332-remove-palindromic-subsequences](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Trie
 |  |
 | ------- |
