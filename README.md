@@ -39,6 +39,7 @@
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
 | [1089-duplicate-zeros](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1089-duplicate-zeros) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
 | ------- |
@@ -139,6 +140,7 @@
 | [1089-duplicate-zeros](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Binary Search
 |  |
 | ------- |
@@ -149,6 +151,7 @@
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Linked List
 |  |
 | ------- |
@@ -233,10 +236,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## String Matching
 |  |
 | ------- |
