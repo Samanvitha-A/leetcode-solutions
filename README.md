@@ -38,6 +38,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
+| [1089-duplicate-zeros](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 ## Queue
 |  |
 | ------- |
@@ -135,6 +136,7 @@
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1089-duplicate-zeros](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1332-remove-palindromic-subsequences) |
 ## Binary Search
 |  |
