@@ -27,6 +27,7 @@
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -69,6 +70,7 @@
 | [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
@@ -90,6 +92,7 @@
 | [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -128,6 +131,7 @@
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +140,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Linked List
 |  |
