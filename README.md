@@ -21,6 +21,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -203,6 +204,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
@@ -244,6 +246,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting Sort
 |  |
