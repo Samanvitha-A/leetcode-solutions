@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -179,6 +180,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0146-lru-cache) |
+| [0303-range-sum-query-immutable](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -279,4 +281,5 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
