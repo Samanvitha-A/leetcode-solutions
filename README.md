@@ -28,6 +28,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -159,6 +161,7 @@
 | [0035-search-insert-position](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -272,4 +275,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
