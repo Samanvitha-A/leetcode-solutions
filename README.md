@@ -143,6 +143,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -194,6 +195,7 @@
 | [0013-roman-to-integer](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
@@ -275,6 +277,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Depth-First Search
 |  |
