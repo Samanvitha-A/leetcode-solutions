@@ -148,6 +148,7 @@
 | [0075-sort-colors](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -199,6 +200,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
