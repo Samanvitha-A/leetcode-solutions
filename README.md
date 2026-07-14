@@ -198,6 +198,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -236,6 +237,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 ## Recursion
 |  |
@@ -247,6 +249,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0268-missing-number) |
