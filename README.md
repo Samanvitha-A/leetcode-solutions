@@ -16,6 +16,7 @@
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
@@ -219,6 +220,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0079-word-search) |
