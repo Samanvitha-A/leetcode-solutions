@@ -43,6 +43,7 @@
 | [0455-assign-cookies](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -60,6 +61,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0209-minimum-size-subarray-sum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+| [0594-longest-harmonious-subsequence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0833-find-and-replace-in-string](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0833-find-and-replace-in-string) |
 ## Divide and Conquer
@@ -117,6 +120,7 @@
 | [0455-assign-cookies](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0720-longest-word-in-dictionary](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -132,6 +136,7 @@
 | [0169-majority-element](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/Samanvitha-A/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 ## Quickselect
 |  |
 | ------- |
